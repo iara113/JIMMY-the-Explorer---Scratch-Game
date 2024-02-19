@@ -1,1 +1,1 @@
-# JIMMY-the-Explorer---Scratch-Game
+# JIMMY the Explorer - Scratch Game
